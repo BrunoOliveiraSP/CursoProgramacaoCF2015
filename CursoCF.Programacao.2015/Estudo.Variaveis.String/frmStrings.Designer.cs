@@ -53,6 +53,7 @@
             this.txtTexto = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.btnIndexOf = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnReplace
@@ -282,7 +283,7 @@
             this.txtTexto.Name = "txtTexto";
             this.txtTexto.Size = new System.Drawing.Size(625, 54);
             this.txtTexto.TabIndex = 22;
-            this.txtTexto.Text = "Digite aqui algum texto ^^";
+            this.txtTexto.Text = "Digite aqui algum texto ^^ #Curti";
             // 
             // label1
             // 
@@ -304,11 +305,22 @@
             this.lblResultado.TabIndex = 24;
             this.lblResultado.Text = "-";
             // 
+            // btnIndexOf
+            // 
+            this.btnIndexOf.Location = new System.Drawing.Point(22, 361);
+            this.btnIndexOf.Name = "btnIndexOf";
+            this.btnIndexOf.Size = new System.Drawing.Size(94, 23);
+            this.btnIndexOf.TabIndex = 25;
+            this.btnIndexOf.Text = "IndexOf";
+            this.btnIndexOf.UseVisualStyleBackColor = true;
+            this.btnIndexOf.Click += new System.EventHandler(this.btnIndexOf_Click);
+            // 
             // frmStrings
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(663, 399);
+            this.Controls.Add(this.btnIndexOf);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtTexto);
@@ -368,6 +380,7 @@
         private System.Windows.Forms.TextBox txtTexto;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Button btnIndexOf;
     }
 }
 

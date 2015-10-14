@@ -301,5 +301,17 @@ namespace Estudo.Variaveis.String
 
             lblResultado.Text = resultado;
         }
+
+        private void btnIndexOf_Click(object sender, EventArgs e)
+        {
+            string resultado = string.Empty;
+            string texto = txtTexto.Text;
+
+            int index = texto.IndexOf("#");
+
+            resultado = "O index do caracter '#' é : " + index;
+
+            lblResultado.Text = resultado;
+        }
     }
 }
