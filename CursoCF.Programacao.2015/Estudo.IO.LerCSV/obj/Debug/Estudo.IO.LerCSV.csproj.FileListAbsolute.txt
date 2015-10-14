@@ -1,1 +1,10 @@
 C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\bin\Debug\Estudo.IO.LerCSV.exe.config
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\bin\Debug\seriados.txt
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\bin\Debug\Estudo.IO.LerCSV.exe
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\bin\Debug\Estudo.IO.LerCSV.pdb
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\obj\Debug\Estudo.IO.LerCSV.csprojResolveAssemblyReference.cache
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\obj\Debug\Estudo.IO.LerCSV.Form1.resources
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\obj\Debug\Estudo.IO.LerCSV.Properties.Resources.resources
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\obj\Debug\Estudo.IO.LerCSV.csproj.GenerateResource.Cache
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\obj\Debug\Estudo.IO.LerCSV.exe
+C:\Users\BRUNO\Documents\GitHubVisualStudio\CursoProgramacaoCF2015\CursoCF.Programacao.2015\Estudo.IO.LerCSV\obj\Debug\Estudo.IO.LerCSV.pdb
