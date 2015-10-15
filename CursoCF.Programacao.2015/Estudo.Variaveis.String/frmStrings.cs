@@ -17,43 +17,6 @@ namespace Estudo.Variaveis.String
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            //texto = texto.Replace("think", "sleep");
-
-            //texto = texto.Reverse().ToString();
-
-            //texto = texto.ToUpper();
-
-            //texto = texto.ToLower();
-
-            //texto = texto.Trim();
-
-            //texto = texto.TrimStart();
-
-            //texto = texto.TrimEnd();
-
-            //bool r = texto.StartsWith("I");
-
-            //texto = texto.Substring(6);
-
-            //string[] palavras = texto.Split(' ');
-
-            //r = texto.EndsWith("think");
-
-            //r = texto.Contains("you");
-
-            //int caracteres = texto.Length;
-
-            //texto = texto.PadLeft(30, '*');
-
-            //texto.PadRight(30, '*');
-
-            //texto = string.Format("Meu ator favorito é: ", "Jony Dep");
-
-            
-
-        }
 
         private void btnReplace_Click(object sender, EventArgs e)
         {
